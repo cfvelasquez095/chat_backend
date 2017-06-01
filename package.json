@@ -1,0 +1,23 @@
+{
+  "name": "RCB",
+  "version": "0.0.1",
+  "description": "Chat Project - Backend",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "body-parser": "^1.15.2",
+    "express": "~4.13.3",
+    "fs": "~0.0.2",
+    "mongodb": "~1.4.39",
+    "mongoose": "~4.2.6",
+    "path": "~0.11.14"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cfvelasquez095/chat_backend"
+  },
+  "author": "Carlos Velasquez, Roberto Melara, Derick Arzu"
+}
